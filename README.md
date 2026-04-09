@@ -20,3 +20,16 @@ Red markers are segmented in HSV colour space and converted into a simplified se
   - **Seeker**: target-following movement with temporary avoidance behaviour
 - Sprite-based rendering for objects
 - Collision-based interaction effects
+
+## How to Run
+
+1. Install dependencies:
+
+```bash
+pip install opencv-python
+pip install numpy
+```
+2. Run the program
+```
+python main.py
+```
